@@ -31,3 +31,9 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+# csv was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. 
+# Add csv to your Gemfile or gemspec. Also contact author of jekyll-4.3.3 to add csv into its gemspec.
+gem 'csv'
+gem 'base64'
+
