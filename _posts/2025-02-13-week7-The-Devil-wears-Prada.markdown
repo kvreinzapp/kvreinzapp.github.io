@@ -1,0 +1,4 @@
+- First of all, people do change, no matter the career or the relationship, but all of that is based on who i am.
+- Sometimes people think A is right but B is wrong, and they called that something in common. And we live on that. When you switch between A and B, you feel confused and no choice, but you do make the choice. The amazing thing is finally you'll return to yourself. What i curious about is what makes myself
+- But i do learned that people will change, and maybe there's just something deep inside that never be discovered.
+- A really good movie. Luxury like the darkness, people live with darkness, but not drown into it.
